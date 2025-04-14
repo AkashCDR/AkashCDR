@@ -1,5 +1,48 @@
-# 💫 About Me:
-👋 Hi there! I'm Akash Shaw<br>🔭 I’m currently working on:<br><br>🚀 AI Agent CLI Tool – A powerful command-line tool that automatically generates complete project code and sets up the environment using Node.js, Gemini API, and more.<br><br>🖼️ Image Toolkit – A privacy-focused tool offering features like image upscaling, format conversion, background removal, and blurring, all done without APIs or database storage for enhanced security.<br><br>🤝 I’m looking to collaborate on:<br><br>🌐 Full Stack Development projects, especially with the MERN stack (MongoDB, Express.js, React, Node.js).<br><br>🧠 I’m currently learning:<br><br>🤖 Machine Learning and exploring how to integrate AI into real-world tools and systems.<br><br>🧩 Ask me about:<br><br>💻 Problem Solving in C++ – I love cracking complex problems with a focus on optimization and unique approaches.<br><br>Let’s build something amazing together! ✨<br>Feel free to connect or reach out! 💬
+## 💫 About Me
+
+👋 **Hi there! I'm Akash Shaw**
+
+---
+
+### 🔭 Currently Working On
+
+- 🚀 **AI Agent CLI Tool**  
+  A powerful command-line tool that **automatically generates complete project code** and sets up the environment using **Node.js**, **Gemini API**, and more.
+
+- 🖼️ **Image Toolkit**  
+  A privacy-focused tool with features like:  
+  - 🔄 **Format Conversion**  
+  - 🔍 **Image Upscaling**  
+  - 🧼 **Background Removal**  
+  - 🌫️ **Image Blurring**  
+  All done **without any external APIs or database storage** to ensure **maximum security**.
+
+---
+
+### 🤝 Looking to Collaborate On
+
+- 🌐 **Full Stack Development** projects  
+  Especially using the **MERN stack** (MongoDB, Express.js, React, Node.js)
+
+---
+
+### 🧠 Currently Learning
+
+- 🤖 **Machine Learning**  
+  Exploring how to integrate AI/ML models into real-world apps and systems.
+
+---
+
+### 🧩 Ask Me About
+
+- 💻 **Problem Solving in C++**  
+  I enjoy solving problems with an eye for **optimization** and **unique approaches**.
+
+---
+
+✨ *Let’s build something amazing together!*  
+📬 *Feel free to connect or reach out!*
+
 
 
 ## 🌐 Socials:
